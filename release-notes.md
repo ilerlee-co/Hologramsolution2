@@ -6,21 +6,43 @@
 
 ### <mark style="background-color:blue;">(06.11)</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**Update list**</mark>
 
-<mark style="color:red;">`CH Platform`</mark>&#x20;
-
-
-
-
-
 
 
 <mark style="color:purple;">`SaaS Platform`</mark>&#x20;
 
+**WhatsApp**
+
+1. [Survey form’s internal question has changed(deleted Region, added Prefer date)](https://github.com/iCloudHospital/iCloudHospital/issues/1970) (#1970)
+
+2) [Chat session refresh token duration was changed to 180d(from 30d)](https://github.com/iCloudHospital/iCloudHospital/issues/1979) (#1979)
 
 
-<mark style="color:yellow;">`Admin`</mark>
+
+`Admin`&#x20;
+
+**Major Updates**
+
+1. [Chat session would be opened when the manager sends a Template.](https://github.com/iCloudHospital/iCloudHospital/issues/1971) (#1971)
+
+
+
+**Minor Updates**
+
+1. [The initial assessment question type box was revised](https://github.com/iCloudHospital/iCloudHospital/issues/1970) (#1970)
+
+
+
+**Fixed bugs**
+
+1. [Admin role / CH Manager role can not access the ‘Chats’ category now. ](https://github.com/iCloudHospital/iCloudHospital/issues/1975) (#1975)
+2. [Request hand off email’s URL error has been fixed.](https://github.com/iCloudHospital/iCloudHospital/issues/1976) (#1976)
+3. [Chat sorting system has fixed (Recent message → Earlier message)](https://github.com/iCloudHospital/iCloudHospital/issues/1977) (#1977)
+
+
 
 </details>
+
+
 
 <details>
 
@@ -53,7 +75,7 @@
 
 ***
 
-<mark style="color:yellow;">`Admin`</mark>
+`Admin`
 
 **Major updates**
 
@@ -123,7 +145,7 @@
 
 ***
 
-<mark style="color:yellow;">`Admin`</mark>
+`Admin`
 
 **Major updates**
 
