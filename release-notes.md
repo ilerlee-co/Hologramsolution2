@@ -29,6 +29,7 @@
 **Minor Updates**
 
 1. [The initial assessment question type box was revised](https://github.com/iCloudHospital/iCloudHospital/issues/1970) (#1970)
+2. [UI/UX improvement (Message exposure to Admin & line wrap feature)](https://github.com/iCloudHospital/iCloudHospital/issues/1978) (#1978)
 
 
 
